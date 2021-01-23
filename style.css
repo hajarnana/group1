@@ -1,0 +1,55 @@
+body
+    {
+        background-color: grey;
+    }
+
+h1
+    {
+        background-color: Cornsilk;
+	font-face: rockwell extra bold; 
+	font-size: 70px; 
+	color: black;
+	border-style: 5px dotted blueviolet
+	border-color: blueviolet;
+	border-radius: 50px;
+    }
+h2
+    {
+	background-color: white;
+	font-face: algerian;
+	font-size: 50px; 
+	color: black;
+	text-allign: center;
+	border: solid;
+	border-color: black;
+	border-radius: 60px;
+    }
+
+p
+    {
+	background-color: darkcyan ;
+	font-size: 25px;	
+	text-align: center; 
+	color: white; 
+	font-family: 'fantasy', cursive;
+	padding: 30px;              
+    }
+
+
+
+a:link, a:visited
+	{
+	background-color: white;
+	color: black;
+	text-allign: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 1px solid;
+	padding: 15px;           
+   	}
+
+a:hover, a:active
+	{
+	background-color: red;
+	color: black;          
+   	}
